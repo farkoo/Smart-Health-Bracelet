@@ -9,3 +9,26 @@ In the picture below, you can see the schematic of this smart bracelet.
 <p align=center>
 <img src="https://github.com/farkoo/Embedded-Systems-Project/blob/master/schm.jpg">
 </p>
+
+The picture of our circuit:
+
+<p align=center>
+<img src="https://github.com/farkoo/Embedded-Systems-Project/blob/master/circuit.jpg">
+</p>
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/Embedded-Systems-Project/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
