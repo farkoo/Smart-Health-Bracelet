@@ -4,6 +4,14 @@ In this project, the goal is to make smart health bracelets for patients with sp
 
 In this project, in addition to the part that is responsible for the necessary processing and communication system as the brain, we need a sensor to receive the heart rate, a module for location and a module for sending text messages. For this reason, we have used the arduino mega as the main core, the KY-039 sensor to receive the heart rate, and the SIM800L module for approximate location and sending sms.
 
+## Requirements:
+* Arduino MEGA
+* KY-039 Heartbeat Sensor
+* SIM800L GPRS Module
+* 1N4007 - High Voltage, High Current rated Diod
+* Breadboard
+* Jumper Wires
+
 In the picture below, you can see the schematic of this smart bracelet.
 
 <p align=center>
