@@ -7,5 +7,5 @@ In this project, in addition to the part that is responsible for the necessary p
 In the picture below, you can see the schematic of this smart bracelet.
 
 <p align=center>
-<img src="https://github.com/farkoo/Embedded-Systems-Project/blob/master/schm.png">
+<img src="https://github.com/farkoo/Embedded-Systems-Project/blob/master/schm.jpg">
 </p>
